@@ -1,45 +1,5 @@
-/* ----IMAGE NAV START---- */
-#imageNav-area {
-    width: 100%;
-    /* Box-model */
-    padding: 30px 30px 43px;
-    /* Positioning */
-    margin-top: 32px;
-    /* Visual */
-    background-color: #fff;
-  }
-  .imageNav-header {
-    /* Positioning */
-    margin-bottom: 15px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    /* Typography */
-    font-size: 25px;
-    font-weight: bold;
-    color: #4aaaa5;
-  }
-  .imageNav-photo {
-    width: 140px;
-    /* Box-model */
-    height: 140px;
-  }
-  .imageNav-photo:hover {
-    /* Visuals */
-    opacity: 0.6;
-  }
-  .imageNav-photo.active {
-    /* Visuals */
-    border: 2px solid #4aaaa5;
-  }
-  #images {
-    /* Box-model */
-    padding-top: 15px;
-    /* Typography */
-    text-align: center;
-  }
-  /* ----IMAGE NAV END---- */
-  11:03
-  /* ----DEFAULT ELEMENT STYLING START---- */
-  html {
+/* ----DEFAULT ELEMENT STYLING START---- */
+html {
     /* Positioning */
     position: relative;
     /* Box-model */
@@ -250,9 +210,3 @@
     background-color: #4aaaa5;
   }
   /* ----FOOTER END---- */
-  
-  
-  
-  
-  
-  
