@@ -1,0 +1,5 @@
+/*--customize nav bar color-->*/
+.navbar .navbar-expand-lg .navbar-light .bg-light {
+    background-color: rgb(57, 57, 107);
+
+}
